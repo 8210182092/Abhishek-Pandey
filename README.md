@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pandey</h1>
 <h5 align="center">Passionate about staying at the forefront of technological advancements, I continuously embrace new challenges and explore emerging trends in data science and artificial intelligence. Let's connect to explore opportunities for collaboration and contribute to the evolving landscape of intelligent data solutions. #DataScience #AI #FullStack"</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=8210182092&label=Profile%20views&color=0e75b6&style=flat" alt="8210182092" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=8210182092&label=Profile%20views&color=0e75b6&style=flat" alt="8210182092" /> </p> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8210182092" alt="8210182092" /></a> </p>
 
